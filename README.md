@@ -1,4 +1,5 @@
-Michael Zhang: 可以借鉴使用：Android-USB-OTG-Camera-master  https://github.com/jiangdongguo/AndroidUSBCamera/
+Michael Zhang: 可以借鉴使用，有预览，有拍照录像：Android-USB-OTG-Camera-master  https://github.com/jiangdongguo/AndroidUSBCamera/
+
 
 ![logo.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/906db02b1dbc49669c38f870b6df2e96~tplv-k3u1fbpfcp-watermark.image?)
 
